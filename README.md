@@ -28,10 +28,13 @@ bash setup_data.sh
 ```
 
 ## Dashboard
-- view tables
-- plot distribution of values
-
 Run the dashboard
 ```
 streamlit run app.py
 ```
+
+View datasets  
+<img src="images/table.png" width="600">
+
+Plot  
+<img src="images/plot.png" width="600">
