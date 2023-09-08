@@ -50,11 +50,10 @@ st.text('')
 
 if variable == groupby:
     ss = analysis.make_counts(df, variable)
-    print(ss)
     dfs = ss.to_frame().reset_index()
     dfs.columns = [variable, 'count']
     x = variable
-    y = None
+    y = 'count'
 else:
     ss = analysis.make_groupby(df, variable, groupby)
     dfs = ss.to_frame().reset_index()
