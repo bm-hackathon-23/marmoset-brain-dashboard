@@ -1,5 +1,6 @@
-# Analysis of Brain/MINDS Marmoset Brain MRI Datasets
-[Brain/MINDS Marmoset Brain MRI Dataset NA216 (In Vivo) and eNA91 (Ex Vivo)](https://dataportal.brainminds.jp/marmoset-mri-na216)
+# Dashboard for Brain/MINDS Marmoset Brain MRI Datasets
+[Brain/MINDS Marmoset Brain MRI Dataset NA216 (In Vivo) and eNA91 (Ex Vivo)](https://dataportal.brainminds.jp/marmoset-mri-na216)  
+
 Analyze the following files:
 - Individual_List: Information of individual animals
 - Variables_gm: Averaged variables in individual gray matter regions

@@ -1,7 +1,6 @@
 import streamlit as st
 
 from src import (
-    analysis,
     data_store, 
 )
 
